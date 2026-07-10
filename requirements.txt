@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pageindex
+PyPDF2==3.0.1
+openai
+python-dotenv
+langchain-community
+pypdf
